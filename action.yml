@@ -13,4 +13,4 @@ outputs:
 
 runs:
   using: node20
-  main: dist/inex.js
+  main: dist/index.js
